@@ -295,7 +295,7 @@ If USB fixes does not help, probably something another is broken. You can read m
 
 <sup>1</sup> Parallels will not work by default on Big Sur and newer, you need to use `SYSTEM_VERSION_COMPAT=1` environment variable.
 
-<sup>2</sup> Use [this](/Resources/Parallels%20Desktop%20Launcher.app.zip) launcher package to simplify the Parallels usage.
+<sup>2</sup> Use [this](https://github.com/mikigal/ryzen-hackintosh/blob/master/Resources/Parallels%20Desktop%20Launcher.app.zip) launcher package to simplify the Parallels usage.
 
 <sup>3</sup> Only Windows 10 Anniversary Update (build 1607) or older systems work.
 
