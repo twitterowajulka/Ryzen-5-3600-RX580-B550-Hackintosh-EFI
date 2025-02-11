@@ -1,4 +1,4 @@
-Fork of https://github.com/mikigal/ryzen-hackintosh
+https://github.com/mikigal/ryzen-hackintosh Fork
 
 EFI was configured for:
 
