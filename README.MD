@@ -255,7 +255,7 @@ To switch to another patch look for `fix PAT` in `config.plist`. There are two v
 
 ## MKL and Intel Fast Memset Patch
 
-Some applications for macOS use MKL - Math Kernel Library. Unfortunately, it does not work on AMD CPUs natively - we need to patch it with [this script](/Resources/ryzen_patch.sh).
+Some applications for macOS use MKL - Math Kernel Library. Unfortunately, it does not work on AMD CPUs natively - we need to patch it with [this script](/ryzen_patch.sh).
 
 There's also `intel_fast_memset` instruction which, obviously, doesn't exist on AMD systems. It's very common in Adobe software - you can simply fix it by running [this script](https://github.com/mikigal/ryzen-hackintosh/blob/master/Resources/adobe_patch.sh). Older versions of Adobe software (e. g. up to 22.3.1 for Photoshop) need it's [legacy version](https://github.com/mikigal/ryzen-hackintosh/blob/master/Resources/adobe_patch_legacy.sh). For details about Adobe patching check thead on [macos86.it](https://www.macos86.it/topic/4822-photoshop-after-effects-cc-2021-premiere-pro-cc-2021-154-amd-hackintosh-fix/).
 
