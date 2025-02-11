@@ -1,4 +1,4 @@
-fork of https://github.com/mikigal/ryzen-hackintosh
+Fork of https://github.com/mikigal/ryzen-hackintosh
 
 EFI was configured for:
 
@@ -8,7 +8,7 @@ B550 Motherboard (AsRock B550 Pro SE)
 
 AMD Radeon RX 580 4GB
 
-tested on macOS Big Sur and Sequoia.
+Tested on macOS Big Sur and Sequoia.
 
 # OpenCore EFI for AMD Ryzen Hackintosh [![tests](https://github.com/mikigal/ryzen-hackintosh/actions/workflows/tests.yml/badge.svg)](https://github.com/mikigal/ryzen-hackintosh/actions/workflows/tests.yml)
 
