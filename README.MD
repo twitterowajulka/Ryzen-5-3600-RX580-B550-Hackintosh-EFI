@@ -1,4 +1,4 @@
-fork of zhttps://github.com/mikigal/ryzen-hackintosh
+fork of https://github.com/mikigal/ryzen-hackintosh
 ryzen 5 3600 
 b550 motherboard (asrock b550 pro se)
 rx 580
