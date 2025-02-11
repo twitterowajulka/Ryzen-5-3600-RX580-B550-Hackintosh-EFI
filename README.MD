@@ -1,3 +1,11 @@
+fork of https://github.com/mikigal/ryzen-hackintosh
+
+ryzen 5 3600 
+
+b550 motherboard (asrock b550 pro se)
+
+rx 580
+
 # OpenCore EFI for AMD Ryzen Hackintosh [![tests](https://github.com/mikigal/ryzen-hackintosh/actions/workflows/tests.yml/badge.svg)](https://github.com/mikigal/ryzen-hackintosh/actions/workflows/tests.yml)
 
 ## Table of contents
