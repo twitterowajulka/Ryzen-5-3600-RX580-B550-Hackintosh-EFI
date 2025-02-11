@@ -227,7 +227,7 @@ Rembember that AirDrop, Handoff, etc. works only on cards with Broadcom chip.
 ### Post-Installation
 
 9. Copy your EFI directory onto your main drive EFI partition, you'll be able to boot the system without your bootable USB.
-10. Apply [Ryzen patch script](/Resources/ryzen_patch.sh) - it solves MKL (Math Kernel Library) issues and sets correct sleep parameters.
+10. Apply [Ryzen patch script](/ryzen_patch.sh) - it solves MKL (Math Kernel Library) issues and sets correct sleep parameters.
 11. If you have `Unknown` instead of your CPU name in About this Mac go to `PlatformInfo -> Generic -> ProcessorType` in your configuration file. Set it to `3841` if your CPU has 8 or more physical cores, else set it to `1537`.
 12. When everything work you can disable verbose mode - then you will see Apple's logo instead of logs while booting. To do it you have to remove `-v debug=0x100 keepsyms=1` from `boot-args` in your configuration file.
 
